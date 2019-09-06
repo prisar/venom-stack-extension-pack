@@ -1,0 +1,34 @@
+{
+    "name": "venom-stack-extension-pack",
+    "displayName": "VENoM Stack Extension Pack",
+    "description": "This extension pack for Visual Studio Code adds extensions that are amazingly useful for VENoM stack development.",
+    "version": "0.0.1",
+    "publisher": "prisar",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "chrmarti.regex", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "eriklynd.json-tools", 
+        "joelday.docthis", 
+        "johnpapa.vscode-peacock", 
+        "kisstkondoros.vscode-codemetrics", 
+        "ms-azuretools.vscode-docker", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "ms-vsliveshare.vsliveshare", 
+        "ms-vsliveshare.vsliveshare-audio", 
+        "msjsdiag.debugger-for-chrome", 
+        "octref.vetur", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "WakaTime.vscode-wakatime", 
+        "wix.vscode-import-cost"
+    ]
+}
